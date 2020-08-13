@@ -1,0 +1,10 @@
+[
+    {
+        "category": "5 star",
+        "type": "business",
+        "id": 1,
+        "name": "hotelA",
+        "price": 250000,
+        "requirement_rating": 9
+    }
+]

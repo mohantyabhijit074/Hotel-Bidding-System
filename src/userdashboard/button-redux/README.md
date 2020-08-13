@@ -1,0 +1,1 @@
+# this webpage covers 5 star and 4 star hotel details only as of now!

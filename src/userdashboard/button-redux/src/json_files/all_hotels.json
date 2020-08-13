@@ -1,0 +1,34 @@
+[
+    {
+        "category": "5 star",
+        "type": "business",
+        "id": 1,
+        "name": "hotelA",
+        "price": 250000,
+        "requirement_rating": 9
+    },
+    {
+        "category": "4 star",
+        "type": "business",
+        "id": 2,
+        "name": "hotelB",
+        "price": 150000,
+        "requirement_rating": 10
+    },
+    {
+        "category": "5 star",
+        "type": "resort",
+        "id": 3,
+        "name": "hotelC",
+        "price": 300000,
+        "requirement_rating": 9
+    },
+    {
+        "category": "4 star",
+        "type": "resort",
+        "id": 4,
+        "name": "hotelD",
+        "price": 280000,
+        "requirement_rating": 10
+    }
+]

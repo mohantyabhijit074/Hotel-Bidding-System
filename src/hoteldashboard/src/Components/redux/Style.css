@@ -1,0 +1,154 @@
+
+.head
+{
+    color: brown;
+    /* width:10px; */
+    margin-left: 00px;
+
+
+}
+/* .table_div
+{
+  margin-left: 300px;
+  overflow:auto;
+  margin-top:00px;
+  background-color: aliceblue;
+  width:1036px;
+  height:500px;
+} */
+.box
+{
+    width: 100%;
+    padding-top: 20px;
+    padding-left:30px;
+    border:5px solid gray;
+    margin:0;
+    height:100%;
+    margin-left:1350px;
+    /* margin-right: 300px; */
+    margin-bottom:0px;
+   
+
+}
+.table{
+    width:100%;
+}
+.textbox{
+    height:100%;
+    width:6em;
+}
+.table
+{
+    background-color: aliceblue;
+    /* padding-bottom: 1000px;  */
+    /* width:120px; */
+    /* resize:both; */
+    overflow:auto;
+    /* align-items: center; */
+    
+
+    
+    
+}
+.table_div{
+    width:100%;
+    margin-left: 40%;
+    margin-top:40%;
+
+}
+.userReq{
+    width:35%;
+    height: 70%;
+    background: rgba(0, 0, 0, 0.1);
+    top:10%;
+    left:5%;
+    position:fixed;
+}
+.close{
+    color: brown;
+    margin-top:-133px;
+    /* margin-right:5px; */
+    margin-left: 300px;
+    /* margin-top: 500px; */
+}
+.X{
+    color:red;
+    margin-left: 40%;
+    /* margin-top: -500px; */
+
+}
+.details_bid{
+    height: 30px;
+    margin-left: 10px;
+    /* margin-top: 10px; */
+}
+.details_update_bid
+{
+    height:30px;
+    margin-left: 10px;
+    width:100%;
+}
+.requirements{
+    height:70%;
+    width:92%;
+    background-color: darkgray;
+    margin-left:4%;
+    margin-top:4%;
+}
+
+.retract_button{
+    margin-left: 5%;
+    /* background-color: crimson; */
+}
+.chats{
+    height: 70%;
+    width: 35%;
+    position: absolute;
+    top:10%;
+    left:65%;
+    background-color:white;
+    overflow: scroll;
+
+}
+.align-right{
+    /* left:20%; */
+    color: white;
+    margin-left: 50%;
+    margin-top: 5%;
+    width: 30%;
+    background-color:black;
+    /* left:10% */
+}
+.bubble{
+    background-color: darkgray;
+    color: white;
+    /* width: 30px; */
+    /* margin-top: 5px; */
+    width:150px;
+}
+.send{
+    margin-bottom:10%;
+    margin-left:185px;
+    /* height: 30px; */
+}
+.send_text{
+    height: 30px;
+}
+.send_button{
+    height: 30px;
+    /* margin-bottom: 5px; */
+}
+.close-chat{
+    top:18%;
+}
+.X-chat{
+    color: red;
+    margin-left:350px;
+}
+.time{
+    color: darkgray;
+    margin-left: 75px;
+    font-size: small;
+}
+
+
